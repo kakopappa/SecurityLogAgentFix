@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.chrisplus.rootmanager.RootManager;
-import com.securitylogagentfix.disable.R;
+
 
 public class MainActivity extends AppCompatActivity {
 
