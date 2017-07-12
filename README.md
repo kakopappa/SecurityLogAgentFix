@@ -1,0 +1,3 @@
+# SecurityLogAgentFix
+
+Disable samsung securitylogagent
